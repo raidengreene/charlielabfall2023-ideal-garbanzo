@@ -11,7 +11,7 @@ $( document ).ready(function() {
     $("#downbonk").toggle();
     bcounter += 1
     document.getElementById("bcount").innerHTML = bcounter;
-    var audio = new Audio("https://github.com/raidengreene/charlieladfall2023-ideal-garbanzo/main/assests/bonk-sound-effect.mp3");
+    var audio = new Audio("https://github.com/raidengreene/charlielabfall2023-ideal-garbanzo/blob/main/assests/bonk-sound-effect.mp3");
     audio.play();
   })
   $("#downbonk").click(
