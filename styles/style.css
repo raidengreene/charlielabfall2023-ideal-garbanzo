@@ -1,9 +1,19 @@
 body{
     text-align: center;
 }
+
 #downbonk{
     display:none
 }
+
 div{
     font-family: Impact;
+}
+
+header{
+    position: fixed;
+    z-index: 10;
+    background-color: aquamarine;
+    width: 100%;
+    border-bottom: 3px solid #466995;
 }
